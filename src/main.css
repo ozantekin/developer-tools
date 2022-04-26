@@ -89,7 +89,7 @@ footer a {
   font-size: 24px;
 }
 
-a:hover .fa-github-alt {
+.fa-github-alt:hover {
   animation: vibration linear infinite 0.5s;
 }
 
