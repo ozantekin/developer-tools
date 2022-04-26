@@ -67,7 +67,11 @@ nav img {
 .nav-right {
   position: absolute;
   right: 0;
-  top: 10%;
+  top: 0;
+}
+
+.nav-right p {
+  margin-top: 0;
 }
 
 footer {
